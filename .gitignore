@@ -1,5 +1,2 @@
-.idea
-frontend_old/
-backend_old/
-frontend/
-backend/
+.env
+/node_modules/
